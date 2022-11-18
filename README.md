@@ -57,7 +57,7 @@ Taking one step at a time to be more mindful of my journey.
  -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="auto">
+<p align="center">
 <a href="https://github.com/freddxvill">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=freddxvill&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide_border=true&hide=contribs&bg_color=00000000"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=freddxvill&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&theme=algolia"/>
