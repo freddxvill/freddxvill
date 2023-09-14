@@ -15,10 +15,10 @@ Taking one step at a time to be more mindful of my journey.
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - 🧡 I believe in **Open Source**
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using . \
+💡 &nbsp; I'm a software developer and researcher at  working on production of trading applications using . \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human be.\
-🎓&nbsp;I graduated form Vi, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+🎓&nbsp;I graduated  (B.Tech, Computer Science and Engineering, Batch of 2021).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at . I'll try to respond as soon as possible!\
@@ -43,11 +43,11 @@ Taking one step at a time to be more mindful of my journey.
 <!---![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
 
 
-[![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)](https://dinhanhthi.com/);
+[![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)](https://dinhanhthi.com/)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
- -->
+
 <!---
 ### 📝 **Certifications**
 
