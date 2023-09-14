@@ -42,10 +42,8 @@ Taking one step at a time to be more mindful of my journey.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 <!---![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
