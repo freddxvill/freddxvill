@@ -47,6 +47,12 @@ Taking one step at a time to be more mindful of my journey.
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="60" height="60"/>&nbsp;
 </div>
 
+
+<!---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!---
 ### 📝 **Certifications**
 
@@ -63,6 +69,7 @@ Taking one step at a time to be more mindful of my journey.
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=freddxvill)
 
 
 
