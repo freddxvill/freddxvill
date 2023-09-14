@@ -68,7 +68,5 @@ Taking one step at a time to be more mindful of my journey.
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=freddxvill)
-
 
 
