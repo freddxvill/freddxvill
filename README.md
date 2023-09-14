@@ -48,10 +48,6 @@ Taking one step at a time to be more mindful of my journey.
 </div>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="100"/>
-</div>
-
 <!---
 ### 📝 **Certifications**
 
@@ -59,6 +55,7 @@ Taking one step at a time to be more mindful of my journey.
 * Machine learnign A-Z@ Coursera
 * Pithon for datascience @ Coursera
  -->
+ 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
