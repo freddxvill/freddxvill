@@ -17,7 +17,7 @@ The union of different branches of science and engineering can help each other a
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - 🧡 I believe in **Open Source**
 
-💡 &nbsp; I'm a software developer and researcher at  working on production of trading applications using . \
+💡 &nbsp; I'm a researcher at  working on production of .. using . \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human be.\
 🎓&nbsp;I graduated  (B.Tech, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Computer Vision.\
