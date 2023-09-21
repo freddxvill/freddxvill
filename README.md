@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-### I'm an Engineer Student and a Data Science Enthusiast!
+I'm an Engineer Student and a Data Science Enthusiast!
 
 I am from Bolivia 🇧o.
 Taking one step at a time to be more mindful of my journey.
