@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Freddy</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 ### I'm an Engineer Student and a Data Science Enthusiast!
 
 I am from Bolivia 🇧o.
