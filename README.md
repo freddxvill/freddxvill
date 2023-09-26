@@ -44,12 +44,13 @@ The union of different branches of science and engineering can help each other a
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 <!---![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fast" alt="fast" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="60" height="60"/>&nbsp;
 </div>
-
+[<img align="left" alt="Java" width="30px" src="https://w7.pngwing.com/pngs/851/797/png-transparent-apache-spark-apache-hadoop-big-data-scala-apache-http-server-spark-miscellaneous-text-orange-thumbnail.png" />][blog]
 
 <!---
 ### 📝 **Certifications**
