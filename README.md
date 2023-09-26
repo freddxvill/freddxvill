@@ -49,7 +49,7 @@ The union of different branches of science and engineering can help each other a
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fast" alt="fast" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="60" height="60"/>&nbsp;
-  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1100/1*c8CtvqKJDVUnMoPGujF5fA.png" title="azure" alt="spark" width="60" height="60"/>&nbsp;
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1100/1*c8CtvqKJDVUnMoPGujF5fA.png" title="spark" alt="spark" width="80" height="60"/>&nbsp;
 </div>
 
 <!---
