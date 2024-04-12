@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm an Engineer Student and a Data Science Enthusiast!
+I am an engineering student passionate about the exciting world of artificial intelligence and data science. I am excited to explore the infinite possibilities that these disciplines offer to solve problems and create innovative solutions.
 
 I am from Bolivia 🇧o.
 Taking one step at a time to be more mindful of my journey.
@@ -11,7 +11,7 @@ The union of different branches of science and engineering can help each other a
 
 
 <!---
-- 🔭 I’m currently working on **AI Powered Chat Engine using 🤗 Pre-trained Transformer Models to Generate Human-like Text**
+- 🔭 I’m currently working on **AI Powered Chat Engine using 🤗 Pre-trained Transformer Models to Generate Human-like Text LLMS**
 - 🌱 I’m currently learning everything about **Large Language Modeling (GPT-3/ OPT), ML, NLP & Reinforcement Learning**
 - 💬 Ask me about anything if my works featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
