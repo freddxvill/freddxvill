@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am an engineering student passionate about the exciting world of Artificial Intelligence and Data Science. 
+I am passionate about the incredible world of Artificial Intelligence and Data Science. 
 I am excited to explore the infinite possibilities that these disciplines offer to solve problems and create innovative solutions.
 
 I am from Bolivia 🇧o.
