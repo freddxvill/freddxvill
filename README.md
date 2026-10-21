@@ -1,74 +1,77 @@
-<h1>Hi 👋, I'm Freddy</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img src="./assets/profile-light.svg" alt="From data to systems that work. Data Science and AI Engineering." width="100%">
+</picture>
 
-### 👨🏻‍💻 &nbsp;About Me
+# Hi, I'm Freddy Villca Villegas
 
-I am passionate about the incredible world of Artificial Intelligence and Data Science. 
-I am excited to explore the infinite possibilities that these disciplines offer to solve problems and create innovative solutions.
+**AI Engineer · Data Scientist · Python Backend Developer**
 
-I am from Bolivia 🇧o.
-Taking one step at a time to be more mindful of my journey.
+Cochabamba, Bolivia 🇧🇴
 
-The union of different branches of science and engineering can help each other and promote the development of new technological advances.
+I build solutions that connect data analysis, machine learning and usable AI applications — from forecasting pipelines and computer vision to APIs, voice agents and workflow automation.
 
+**[Portfolio](https://freddxvill.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/freddy-villca-villegas/)** · **[Email](mailto:fvillcavillegas@gmail.com)**
 
-<!---
-- 🔭 I’m currently working on **AI Powered Chat Engine using 🤗 Pre-trained Transformer Models to Generate Human-like Text LLMS**
-- 🌱 I’m currently learning everything about **Large Language Modeling (GPT-3/ OPT), ML, NLP & Reinforcement Learning**
-- 💬 Ask me about anything if my works featured in my repositories interest you
-- 📫 How to reach me: reach me via my **Email**
-- 💻 Goals: Learn more technological stacks and improve my overall skills
-- 🧡 I believe in **Open Source**
+## About me
 
-💡 &nbsp; I'm a researcher at  working on production of .. using . \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human be.\
-🎓&nbsp;I graduated  (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at . I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive) for more details about work experience.
+I'm an electromechanical engineer with a postgraduate degree in **Applied Statistics**. I bring that background to problems that need both careful analysis and working software.
 
-<p align="center">
-  <img style="float: center;" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="85" height="82"></br>
-<span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
-</p>
--->
+- **Data & machine learning:** exploratory analysis, forecasting, segmentation, geospatial analysis and computer vision.
+- **AI & backend:** Python APIs, LLM applications, voice agents, WhatsApp integrations and n8n workflows.
+- **How I work:** start with the problem, evaluate the model, document decisions and build for everyday use.
 
-### 🛠 &nbsp;Tech Stack
+## Selected projects
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-<!---![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
+### Electricity demand forecasting · Bolivia
 
+Daily forecasts with LightGBM, TFT and calibrated prediction intervals. **30% lower MAE** than the official CNDC forecast in a 183-day backtest.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fast" alt="fast" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="60" height="60"/>&nbsp;
-  <!---<img src="https://cdn-images-1.medium.com/v2/resize:fit:1100/1*c8CtvqKJDVUnMoPGujF5fA.png" title="spark" alt="spark" width="100" height="60"/>&nbsp; -->
-</div>
+[Code](https://github.com/freddxvill/forecast-energia-electrica-en-bolivia) · [Live app](https://demanda-energia-electrica-en-bolivia.streamlit.app/)
 
-<!---
-### 📝 **Certifications**
+### Bolivian Sign Language translator
 
-* Applied Machine Learning in Python@[Coursera]()
-* Machine learnign A-Z@ Coursera
-* Pithon for datascience @ Coursera
- -->
- 
-### ⚙️ &nbsp;GitHub Analytics
+A PyTorch Transformer Encoder recognizing **58 sign classes** from 5,800 movement sequences, with MediaPipe and a PyQt5 desktop interface.
 
-<p align="center">
-<a href="https://github.com/freddxvill">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=freddxvill&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide_border=true&hide=contribs&bg_color=00000000"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=freddxvill&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[Code & demo](https://github.com/freddxvill/Proyecto_Traductor_de_la_LSB)
 
+### Mi Teleférico · Accessibility & expansion
 
+Slope-aware walking accessibility and station optimization for La Paz and El Alto. Proposed **7 stations** with estimated access for **95,000 additional people**.
 
+[Code](https://github.com/freddxvill/analisis-proyeccion-linea-teleferico-la-paz-bolivia) · [Interactive analysis](https://freddxvill.github.io/analisis-proyeccion-linea-teleferico-la-paz-bolivia/)
+
+### Forex dashboard with an AI analyst
+
+A Streamlit dashboard connecting Gemini, OpenAI and Claude to **11 financial data tools** for prices, indicators and news sentiment.
+
+[Code](https://github.com/freddxvill/Forex-Dashboard-and-AI-chat-with-tools-Streamlit-App)
+
+### ML model as an API
+
+A movie revenue prediction API with **FastAPI**, data versioning with **DVC**, and testing and deployment workflows in **GitHub Actions**.
+
+[Code](https://github.com/freddxvill/Deployment-ML)
+
+## AI products
+
+- **[Thinka AI](https://thinka-ia.com/)** — Turn a topic or PDF into interactive lessons with virtual teachers, presentations and assessments. Built with Next.js, FastAPI, LangGraph and Celery.
+- **[Unative](https://landing-unative.vercel.app/)** — Practice spoken English with an AI coach powered by Gemini Live, with scores and feedback after each conversation.
+- **[SincroMED](https://sincromed.com/)** — Bring patients, consultations, bookings and reminders into a multi-clinic platform built with Next.js, FastAPI and PostgreSQL.
+
+## Toolkit
+
+| Area | Tools I use |
+| --- | --- |
+| **Data & analysis** | Python, SQL, pandas, NumPy, Altair, Plotly, GeoPandas |
+| **Machine learning** | scikit-learn, PyTorch, LightGBM, Transformers, MediaPipe, OpenCV |
+| **AI & automation** | LangGraph, Gemini Live, LLM tool calling, n8n, MCP, WebSockets |
+| **Backend & delivery** | FastAPI, PostgreSQL, Celery, Docker, GitHub Actions, DVC |
+| **Applications** | Streamlit, Quarto, Next.js |
+
+## Let's connect
+
+I'm interested in **Data Science, Machine Learning and AI Engineering** opportunities, and in collaborations that turn data into useful products.
+
+Have a project in mind? **[Let's talk](mailto:fvillcavillegas@gmail.com)** — or explore more of my work on my **[portfolio](https://freddxvill.github.io/)**.
