@@ -38,6 +38,10 @@ Outside of work, I enjoy running and exploring philosophical questions about AI 
 | **Backend & delivery** | FastAPI, PostgreSQL, Celery, Docker, GitHub Actions, DVC |
 | **Applications** | Streamlit, Quarto, Next.js |
 
+## DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,azure,vercel" alt="Docker, GitHub Actions, Git, Azure, Vercel">
+
 ## Let's connect
 
 I'm interested in **Data Science, Machine Learning and AI Engineering** opportunities, and in collaborations that turn data into useful products.
