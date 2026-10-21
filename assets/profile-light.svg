@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-labelledby="title description">
   <title id="title">From data to systems that work</title>
-  <desc id="description">An editorial banner in warm white and forest green. Five data paths converge into a working system.</desc>
-  <rect width="1280" height="384" fill="#f4f4f2"/>
-  <path d="M48 80H1232M48 320H1232" stroke="#d9d7d1"/>
-  <g fill="#52665a" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2">
+  <desc id="description">An editorial banner in ice white and blue. Five data paths converge into a working system.</desc>
+  <rect width="1280" height="384" fill="#F1F6FC"/>
+  <path d="M48 80H1232M48 320H1232" stroke="#D4DFEB"/>
+  <g fill="#526983" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2">
     <text x="48" y="49">DATA SCIENCE / AI ENGINEERING</text>
     <text x="48" y="356">ANALYZE. MODEL. BUILD. DEPLOY.</text>
   </g>
   <g font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="600" letter-spacing="-4">
-    <text x="44" y="178" fill="#262625">From data to</text>
-    <text x="44" y="268" fill="#467459">systems that work.</text>
+    <text x="44" y="178" fill="#172B46">From data to</text>
+    <text x="44" y="268" fill="#1E62A3">systems that work.</text>
   </g>
-  <g fill="none" stroke="#a8bead" stroke-width="2">
+  <g fill="none" stroke="#9FB9D3" stroke-width="2">
     <path d="M950 116H986C1050 116 1020 200 1088 200H1160"/>
     <path d="M950 158H1000C1040 158 1040 200 1088 200"/>
     <path d="M950 200H1160"/>
     <path d="M950 242H1000C1040 242 1040 200 1088 200"/>
     <path d="M950 284H986C1050 284 1020 200 1088 200"/>
   </g>
-  <g fill="#467459">
+  <g fill="#1E62A3">
     <circle cx="950" cy="116" r="4"/>
     <circle cx="950" cy="158" r="4"/>
     <circle cx="950" cy="200" r="4"/>
     <circle cx="950" cy="242" r="4"/>
     <circle cx="950" cy="284" r="4"/>
   </g>
-  <circle cx="1160" cy="200" r="42" fill="#e7ebe3" stroke="#a8bead"/>
-  <circle cx="1160" cy="200" r="23" fill="none" stroke="#467459" stroke-width="2"/>
-  <path d="m1149 200 8 8 15-17" fill="none" stroke="#467459" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1160" cy="200" r="42" fill="#E1EBF5" stroke="#9FB9D3"/>
+  <circle cx="1160" cy="200" r="23" fill="none" stroke="#1E62A3" stroke-width="2"/>
+  <path d="m1149 200 8 8 15-17" fill="none" stroke="#1E62A3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
