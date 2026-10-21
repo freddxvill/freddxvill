@@ -8,8 +8,6 @@
 
 **AI Engineer · Data Scientist · Python Backend Developer**
 
-Cochabamba, Bolivia 🇧🇴
-
 I build solutions that connect data analysis, machine learning and usable AI applications — from forecasting pipelines and computer vision to APIs, voice agents and workflow automation.
 
 **[Portfolio](https://freddxvill.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/freddy-villca-villegas/)** · **[Email](mailto:fvillcavillegas@gmail.com)**
