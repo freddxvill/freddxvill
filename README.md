@@ -20,6 +20,8 @@ I'm an electromechanical engineer with a postgraduate degree in **Applied Statis
 - **AI & backend:** Python APIs, LLM applications, voice agents, WhatsApp integrations and n8n workflows.
 - **How I work:** start with the problem, evaluate the model, document decisions and build for everyday use.
 
+Outside of work, I enjoy running and exploring philosophical questions about AI and the future.
+
 ## AI products
 
 - **[Thinka AI](https://thinka-ia.com/)** — Turn a topic or PDF into interactive lessons with virtual teachers, presentations and assessments. Built with Next.js, FastAPI, LangGraph and Celery.
