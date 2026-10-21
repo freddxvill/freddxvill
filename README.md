@@ -41,3 +41,12 @@ I'm an electromechanical engineer with a postgraduate degree in **Applied Statis
 I'm interested in **Data Science, Machine Learning and AI Engineering** opportunities, and in collaborations that turn data into useful products.
 
 Have a project in mind? **[Let's talk](mailto:fvillcavillegas@gmail.com)** — or explore more of my work on my **[portfolio](https://freddxvill.github.io/)**.
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/freddxvill">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=freddxvill&amp;show_icons=true&amp;count_private=true&amp;theme=algolia&amp;include_all_commits=true&amp;hide_border=true&amp;hide=contribs&amp;bg_color=00000000" alt="Freddy's GitHub statistics">
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=freddxvill&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8&amp;theme=algolia" alt="Freddy's most used programming languages">
+  </a>
+</p>
