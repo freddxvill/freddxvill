@@ -22,38 +22,6 @@ I'm an electromechanical engineer with a postgraduate degree in **Applied Statis
 - **AI & backend:** Python APIs, LLM applications, voice agents, WhatsApp integrations and n8n workflows.
 - **How I work:** start with the problem, evaluate the model, document decisions and build for everyday use.
 
-## Selected projects
-
-### Electricity demand forecasting · Bolivia
-
-Daily forecasts with LightGBM, TFT and calibrated prediction intervals. **30% lower MAE** than the official CNDC forecast in a 183-day backtest.
-
-[Code](https://github.com/freddxvill/forecast-energia-electrica-en-bolivia) · [Live app](https://demanda-energia-electrica-en-bolivia.streamlit.app/)
-
-### Bolivian Sign Language translator
-
-A PyTorch Transformer Encoder recognizing **58 sign classes** from 5,800 movement sequences, with MediaPipe and a PyQt5 desktop interface.
-
-[Code & demo](https://github.com/freddxvill/Proyecto_Traductor_de_la_LSB)
-
-### Mi Teleférico · Accessibility & expansion
-
-Slope-aware walking accessibility and station optimization for La Paz and El Alto. Proposed **7 stations** with estimated access for **95,000 additional people**.
-
-[Code](https://github.com/freddxvill/analisis-proyeccion-linea-teleferico-la-paz-bolivia) · [Interactive analysis](https://freddxvill.github.io/analisis-proyeccion-linea-teleferico-la-paz-bolivia/)
-
-### Forex dashboard with an AI analyst
-
-A Streamlit dashboard connecting Gemini, OpenAI and Claude to **11 financial data tools** for prices, indicators and news sentiment.
-
-[Code](https://github.com/freddxvill/Forex-Dashboard-and-AI-chat-with-tools-Streamlit-App)
-
-### ML model as an API
-
-A movie revenue prediction API with **FastAPI**, data versioning with **DVC**, and testing and deployment workflows in **GitHub Actions**.
-
-[Code](https://github.com/freddxvill/Deployment-ML)
-
 ## AI products
 
 - **[Thinka AI](https://thinka-ia.com/)** — Turn a topic or PDF into interactive lessons with virtual teachers, presentations and assessments. Built with Next.js, FastAPI, LangGraph and Celery.
