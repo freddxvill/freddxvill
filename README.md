@@ -4,7 +4,7 @@
   <img src="./assets/profile-light.svg" alt="From data to systems that work. Data Science and AI Engineering." width="100%">
 </picture>
 
-# Hi, I'm Freddy Villca Villegas
+# Hi, I'm Freddy
 
 **AI Engineer · Data Scientist · Python Backend Developer**
 
