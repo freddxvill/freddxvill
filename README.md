@@ -40,7 +40,7 @@ Outside of work, I enjoy running and exploring philosophical questions about AI 
 
 ## DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,azure,vercel" alt="Docker, GitHub Actions, Git, Azure, Vercel">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,azure,vercel,aws,nginx" alt="Docker, GitHub Actions, Git, Azure, Vercel, AWS, Nginx">&nbsp;<img src="https://img.shields.io/badge/Railway-131415?style=plastic&amp;logo=railway&amp;logoColor=white" height="48" alt="Railway">
 
 ## Let's connect
 
